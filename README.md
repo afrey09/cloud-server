@@ -30,7 +30,7 @@ CLI deploy - lab16-dev.us-east-2.elasticbeanstalk.com
 
 ## `.env` requirements (where applicable)
 
-PORT=2001
+PORT=3001
 
 ### How to Initialize/run your application(where applicable)
 
